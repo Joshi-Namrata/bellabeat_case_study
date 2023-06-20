@@ -163,7 +163,7 @@ This would further help guide the company's marketing strategy where I am going 
 
 The SQL queries I used for creating tables in tableau for data visualizations can be found in [***data_visualization.sql***](https://github.com/Joshi-Namrata/bellabeat_case_study/blob/main/data_visualization.sql) file.
 
-![Alt text](<Dashboard 1 (1).png>)
+![Alt text](<screenshots/dashboard_1.png>)
 
 
 The link to my tableau dashboard to present the data analysis key findings : [**Data Visualization In Tableau**](https://public.tableau.com/app/profile/namrata.joshi/viz/Fitbitdataanalysis_16867079887370/Dashboard1#2)
@@ -186,17 +186,17 @@ Here are some of the key findings from the analysis.
 * User engagement is high with more users wearing their Fitbit device in the month of April as compared to May.
 
 
-![Alt text](<Sheet 1.png>)
+![Alt text](<screenshots/sheet_1.png>)
 
 * Most users wearing their Fitbit device cover a distance between 3 - 6.9 miles and burn calories between 1280-2480 calories on an average per day.
 
 * Very active users taking the most steps in a day burnt the most calories as compared to the other users which is expected but can be a useful measure for the users who are trying to lose weight.
 
-![Alt text](<Sheet 2.png>)
+![Alt text](<screenshots/sheet_2.png>)
 
 * Fairly active users spent the least sedentary hours compared to the other user types.
 
-![Alt text](<Sheet 3.png>)
+![Alt text](<screenshots/sheet_3.png>)
 
 * Most users spent their activity hours doing light activities in a day compared to other activity types which gradually increased as users started getting more active. 
 
@@ -204,15 +204,15 @@ Here are some of the key findings from the analysis.
 
 * Most users are able to get 6-8 hours of sleep during the weekdays especially (Tuesday- Friday) with a few of them getting > 8 hours of sleep mostly on Sunday.
 
-![Alt text](<Sheet 4-4.png>)
+![Alt text](<screenshots/sheet_4.png>)
 
 * Very active users tend to sleep less than other types of users.
 
-![Alt text](<Sheet 5-2.png>)
+![Alt text](<screenshots/sheet_5.png>)
 
 * Sleep hours increase as sedentary hours decrease and lightly active hours increase.
 
-![Alt text](<Sheet 6 (1).png>)
+![Alt text](<screenshots/sheet_6.png>)
 
 * There are only 8 unique users who have logged their weight information data and 5 unique users who have recorded sleep have also recorded weight information data which is insufficient to draw patterns applicable to all the users.
 
